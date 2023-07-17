@@ -1,0 +1,152 @@
+*{
+    margin: 0;
+    padding-left: 0;
+}
+.background-img{
+    background-image: url(https://thumbs.dreamstime.com/b/animation-landscape-ancient-indian-palace-river-bank-vector-illustration-125354501.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.header{
+    position:sticky;
+    top:0;
+    left:0;
+    right: 0;
+    z-index: 1000;
+    display:flex;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    align-items: center;
+    background-color:rgb(133, 205, 250);
+}
+.header a{
+    text-decoration: none;
+    color: whitesmoke;
+}
+.navbar a{
+    text-decoration: none;
+    color: whitesmoke;
+    word-spacing: 1.5rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    font-size: 1.2rem;
+}
+.logo{
+    width: 20px;
+    padding: 0%;
+    background-image: url(https://www.logolynx.com/images/logolynx/03/03d730452504c39e59ea44be51816265.png);
+}
+.head1{
+    display: flex;
+    padding-left: 1rem;
+}
+.head1 a{
+    display: flex;
+    justify-content: space-between;
+}
+button a{
+    text-decoration: none;
+    color: black;
+    padding-right: 10px;
+}
+button{
+        background-color:antiquewhite;
+        color: black;
+        padding: 8px;
+        text-align: center;
+        margin: 6px;
+        border-radius: 50px;
+        border-color: antiquewhite;
+}
+h1{
+    color: whitesmoke;
+    font-size: 60px;
+    padding-top: 100px;
+    margin: 10px;
+}
+p{
+    font-size: larger;
+    color: whitesmoke;
+    margin: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+h4{
+    color: whitesmoke;
+}
+.hyderabad{
+    background-color: rgb(5, 71, 71);
+    color: white;
+    padding: 20px;
+    font-size: larger;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    margin-right: 40px;
+    margin-left: 40px;
+    text-align: center;
+    border-radius: 20px;
+ }
+ .Mumbai{
+    background-color: rgb(194, 194, 7);
+    color: white;
+    padding: 20px;
+    font-size: larger;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    margin-left: 40px;
+    margin-right: 40px;
+    text-align: center;
+    border-radius: 20px;
+ }
+ .Delhi{
+    background-color: rgb(148, 8, 8);
+    color: white;
+    padding: 20px;
+    font-size: larger;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    margin-right: 40px;
+    margin-left: 40px;
+    text-align: center;
+    border-radius: 20px;
+ }
+ .Kolkata{
+    background-color: rgb(178, 71, 136);
+    color: white;
+    padding: 20px;
+    font-size: larger;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    margin-right: 40px;
+    margin-left: 40px;
+    text-align: center;
+    border-radius: 20px;
+ }
+ #places{
+    width: 200px;
+    height: 400px;
+    background-color: rgb(115, 212, 244);
+    display: inline-block;
+    margin-left: 100px;
+    padding: 15px;
+    padding-bottom: 20px;
+    text-align: center;
+    margin-top: 150px;
+    margin-bottom: 100px;
+    border-radius: 20px;
+ }
+img{
+    width: 100px;
+    height: 150px;
+    border-radius: 50%;
+    display: block;
+    margin: auto;
+    padding: 10px;
+ }
+ .Main{
+    margin-left: 30px;
+ }
+ h2{
+    color: whitesmoke;
+ }
